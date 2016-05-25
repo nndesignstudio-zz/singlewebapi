@@ -2,11 +2,7 @@
 // 1.1 - lite
 // Stephen Band
 // 
-// Project home:
-// webdev.stephband.info/events/frame/
-//
-// Source:
-// http://github.com/stephband/jquery.event.frame
+
 
 (function(jQuery, undefined){
 
