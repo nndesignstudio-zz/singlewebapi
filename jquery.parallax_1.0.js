@@ -1,16 +1,14 @@
 // jquery.parallax.js
 // 1.1
-// Stephen Band
+// Niels Nielsen
 //
 // Project and documentation site:
 // webdev.stephband.info/jparallax/
 //
 // Repository:
-// github.com/stephband/jparallax
+// github.com/nndesignstudio
 //
-// Dependencies:
-// jquery.event.frame
-// webdev.stephband.info/events/frame/
+
 
 (function(jQuery, undefined) {
 	// Debug

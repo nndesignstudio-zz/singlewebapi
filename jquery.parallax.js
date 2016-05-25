@@ -1,12 +1,12 @@
 // jquery.parallax.js
 // 2.0
-// Stephen Band
+// Niels Nielsen
 //
 // Project and documentation site:
 // webdev.stephband.info/jparallax/
 //
 // Repository:
-// github.com/stephband/jparallax
+// github.com/nndesignstudio
 
 (function(jQuery, undefined) {
 	// VAR
